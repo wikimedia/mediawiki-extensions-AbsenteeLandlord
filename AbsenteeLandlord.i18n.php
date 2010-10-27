@@ -106,6 +106,13 @@ $messages['bg'] = array(
 	'absenteelandlord-desc' => 'Автоматично заключва базата от данни ако всички администратори са неактивни за известен период от време',
 );
 
+/** Bengali (বাংলা)
+ * @author Samritmaity
+ */
+$messages['bn'] = array(
+	'absenteelandlord-reason' => 'তত্বাবধায়কদের নিস্ক্রিয়তার জন্য তথ্যভাণ্ডার তালাবদ্ধ হয়েছে ।',
+);
+
 /** Breton (Brezhoneg)
  * @author Fulup
  */
