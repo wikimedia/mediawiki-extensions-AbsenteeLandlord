@@ -107,10 +107,11 @@ $messages['bg'] = array(
 );
 
 /** Bengali (বাংলা)
+ * @author Bellayet
  * @author Samritmaity
  */
 $messages['bn'] = array(
-	'absenteelandlord-reason' => 'তত্বাবধায়কদের নিস্ক্রিয়তার জন্য তথ্যভাণ্ডার তালাবদ্ধ হয়েছে ।',
+	'absenteelandlord-reason' => 'প্রশাসকদের নিস্ক্রিয়তার কারনে তথ্যভাণ্ডারের প্রবেশাধিকার স্বয়ংক্রিয়ভাবে সীমাবদ্ধ করা হয়েছে।',
 );
 
 /** Breton (Brezhoneg)
