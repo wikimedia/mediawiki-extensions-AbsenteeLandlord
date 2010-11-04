@@ -39,7 +39,6 @@ function efAbsenteeLandlord_Setup() {
 			global $wgReadOnly;
 
 			# Add Messages (don't need them unless we get here)
-			wfLoadExtensionMessages( 'AbsenteeLandlord' );
 			$wgReadOnly = wfMsg( 'absenteelandlord-reason' );
 		}
 	}
