@@ -331,11 +331,12 @@ $messages['hsb'] = array(
 );
 
 /** Haitian (Kreyòl ayisyen)
+ * @author Boukman
  * @author Masterches
  */
 $messages['ht'] = array(
-	'absenteelandlord-reason' => 'Bazdone a fème paske administratè yo pa fè pyès aktivite anndan l.',
-	'absenteelandlord-desc' => 'Bazdone a ap fème poukont li si sysops yo, administratè yo pa fè anyen pandan yon kout tan',
+	'absenteelandlord-reason' => 'Bazdone a fèmen paske administratè yo pa fè anyen ladan l.',
+	'absenteelandlord-desc' => 'Fèmen bazdone a poukont li si sysops yo, administratè yo pa fè anyen pandan yon tan',
 );
 
 /** Hungarian (Magyar)
