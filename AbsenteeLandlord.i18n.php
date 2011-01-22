@@ -72,7 +72,7 @@ $messages['az'] = array(
 	'absenteelandlord-desc' => 'Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir',
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -89,7 +89,7 @@ $messages['bar'] = array(
 	'absenteelandlord-desc' => "Automaatische Sperre vo da Datenbånk, wånn d' Administratorn fyra gwisse Zaid inaktiv san",
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author Jim-by
  * @author Red Winged Duck
  */
@@ -690,7 +690,7 @@ $messages['sl'] = array(
 	'absenteelandlord-desc' => 'Samodejno zaklene zbirke podatkov wikija, če so vsi administratorji nekaj časa neaktivni',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -698,7 +698,7 @@ $messages['sr-ec'] = array(
 	'absenteelandlord-desc' => 'Аутоматски закључава Вики базу података уколико су сви администратори неактивни неко време.',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica))
+/** Serbian Latin ekavian (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
