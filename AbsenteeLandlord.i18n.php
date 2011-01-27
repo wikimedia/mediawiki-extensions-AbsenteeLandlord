@@ -674,6 +674,13 @@ $messages['scn'] = array(
 	'absenteelandlord-desc' => "Blocca autumàticamenti lu database di na wiki si tutti l'amministraturi soi non sunnu attivi pi quarchi tempu",
 );
 
+/** Sinhala (සිංහල)
+ * @author Priyawee
+ */
+$messages['si'] = array(
+	'absenteelandlord-reason' => 'පරිපාලකයන් අක්‍රියව සිටීම හේතුකරගෙන දත්ත සමුදාය ස්වයංක්‍රීය ව අගුළු වැටී ඇත.',
+);
+
 /** Slovak (Slovenčina)
  * @author Helix84
  */
