@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'absenteelandlord-desc' => '{{desc}}',
 );
 
+/** Dusun Bundu-liwan (Dusun Bundu-liwan)
+ * @author FRANELYA
+ */
+$messages['dtp'] = array(
+	'absenteelandlord-reason' => 'Tinimungan data noporianan nokunsian tu pinologos di mongu-ngulud.',
+);
+
 /** Afrikaans (Afrikaans)
  * @author Naudefj
  */
