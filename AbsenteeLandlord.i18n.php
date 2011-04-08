@@ -826,11 +826,12 @@ $messages['vep'] = array(
 );
 
 /** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
  * @author Vinhtantran
  */
 $messages['vi'] = array(
-	'absenteelandlord-reason' => 'Cơ sở dữ liệu đã bị tự động khóa do không có người quản lý nào hoạt động.',
-	'absenteelandlord-desc' => 'Tự động khóa cơ sở dữ liệu nếu tất cả người quản lý đều không hoạt động vào một thời điểm',
+	'absenteelandlord-reason' => 'Cơ sở dữ liệu đã bị tự động khóa do không có quản lý viên nào hoạt động.',
+	'absenteelandlord-desc' => 'Tự động khóa cơ sở dữ liệu nếu tất cả quản lý viên đều không hoạt động vào một thời điểm',
 );
 
 /** Volapük (Volapük)
