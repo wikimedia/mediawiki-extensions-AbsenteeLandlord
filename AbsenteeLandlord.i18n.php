@@ -22,13 +22,6 @@ $messages['qqq'] = array(
 	'absenteelandlord-desc' => '{{desc}}',
 );
 
-/** Dusun Bundu-liwan (Dusun Bundu-liwan)
- * @author FRANELYA
- */
-$messages['dtp'] = array(
-	'absenteelandlord-reason' => 'Tinimungan data noporianan nokunsian tu pinologos di mongu-ngulud.',
-);
-
 /** Afrikaans (Afrikaans)
  * @author Naudefj
  */
@@ -186,6 +179,13 @@ $messages['de'] = array(
 $messages['dsb'] = array(
 	'absenteelandlord-reason' => 'Datowa banka jo se awtomatiski zastajiła, dokulaž administratory njejsu aktiwne.',
 	'absenteelandlord-desc' => 'Zastajijo awtomatiski datowu banku wikija, jolic administratory su za wěsty cas njeakitwne.',
+);
+
+/** Dusun Bundu-liwan (Dusun Bundu-liwan)
+ * @author FRANELYA
+ */
+$messages['dtp'] = array(
+	'absenteelandlord-reason' => 'Tinimungan data noporianan nokunsian tu pinologos di mongu-ngulud.',
 );
 
 /** Greek (Ελληνικά)
@@ -830,8 +830,8 @@ $messages['vep'] = array(
  * @author Vinhtantran
  */
 $messages['vi'] = array(
-	'absenteelandlord-reason' => 'Cơ sở dữ liệu đã bị tự động khóa do không có quản lý viên nào hoạt động.',
-	'absenteelandlord-desc' => 'Tự động khóa cơ sở dữ liệu nếu tất cả quản lý viên đều không hoạt động vào một thời điểm',
+	'absenteelandlord-reason' => 'Cơ sở dữ liệu đã bị tự động khóa do không có bảo quản viên nào hoạt động.',
+	'absenteelandlord-desc' => 'Tự động khóa cơ sở dữ liệu nếu tất cả bảo quản viên đều không hoạt động vào một thời điểm',
 );
 
 /** Volapük (Volapük)
