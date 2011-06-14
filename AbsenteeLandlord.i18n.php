@@ -223,6 +223,13 @@ $messages['eu'] = array(
 	'absenteelandlord-desc' => 'Administratzaile guztiek aktibitate eza badute denbora zehatz batean wiki datubasea automatikoki blokeatzen du',
 );
 
+/** Persian (فارسی)
+ * @author Ebraminio
+ */
+$messages['fa'] = array(
+	'absenteelandlord-reason' => 'پایگاه داده به طور خودکار به دلیل عدم فعالیت مدیران قفل شده‌است.',
+);
+
 /** Finnish (Suomi)
  * @author Jaakonam
  */
