@@ -85,8 +85,8 @@ $messages['ba'] = array(
  * @author Mucalexx
  */
 $messages['bar'] = array(
-	'absenteelandlord-reason' => 'De Datenbånk is automaatisch gsperrt worn, wail koa Administrator aktiv is.',
-	'absenteelandlord-desc' => "Automaatische Sperre vo da Datenbånk, wånn d' Administratorn fyra gwisse Zaid inaktiv san",
+	'absenteelandlord-reason' => 'Dé Daatenbånk is autómaatisch gsperrd worn, weil koah Administraator aktiav is.',
+	'absenteelandlord-desc' => "Autómaatische Sperre voh da Daatenbånk, wånn d' Administraatorn fyra gwisse Zeid inaktiav san",
 );
 
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
