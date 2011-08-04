@@ -546,7 +546,7 @@ $messages['mt'] = array(
  */
 $messages['nds-nl'] = array(
 	'absenteelandlord-reason' => 'De databanke is automaties aofesleuten vanwegen inaktiviteit van de beheerders.',
-	'absenteelandlord-desc' => 'Sluut de databanke automaties as de beheerders allemaole inakief bin in een bepaolde tied',
+	'absenteelandlord-desc' => 'Sluut de databanke automaties as de beheerders allemaole inakief bin in n bepaolde tied',
 );
 
 /** Nepali (नेपाली)
