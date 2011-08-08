@@ -859,10 +859,11 @@ $messages['wo'] = array(
 
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Bencmq
+ * @author PhiLiP
  */
 $messages['zh-hans'] = array(
 	'absenteelandlord-reason' => '由于管理员不活跃，数据库已经被自动锁定。',
-	'absenteelandlord-desc' => '若所有的管理人员在一段时间内不活跃，维基数据库将被自动锁定',
+	'absenteelandlord-desc' => '在所有管理员在一段时间内都不活跃时，自动锁定此wiki的数据库',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
