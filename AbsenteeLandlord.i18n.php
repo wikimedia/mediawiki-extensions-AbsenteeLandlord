@@ -181,7 +181,7 @@ $messages['dsb'] = array(
 	'absenteelandlord-desc' => 'Zastajijo awtomatiski datowu banku wikija, jolic administratory su za wěsty cas njeakitwne.',
 );
 
-/** Dusun Bundu-liwan (Dusun Bundu-liwan)
+/** Central Dusun (Dusun Bundu-liwan)
  * @author FRANELYA
  */
 $messages['dtp'] = array(
@@ -671,7 +671,7 @@ $messages['ru'] = array(
 	'absenteelandlord-desc' => 'Автоматически блокирует базу данных вики-проекта, если никто из администраторов не проявляет активности некоторое время',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
