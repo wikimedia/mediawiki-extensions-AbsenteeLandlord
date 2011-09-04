@@ -224,10 +224,12 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Americophile
  * @author Ebraminio
  */
 $messages['fa'] = array(
 	'absenteelandlord-reason' => 'پایگاه داده به طور خودکار به دلیل عدم فعالیت مدیران قفل شده‌است.',
+	'absenteelandlord-desc' => 'اگر همهٔ مدیران برای مدتی غیر فعال باشند پایگاه داده ویکی را به طور خودکار قفل می‌کند',
 );
 
 /** Finnish (Suomi)
