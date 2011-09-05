@@ -713,6 +713,14 @@ $messages['sl'] = array(
 	'absenteelandlord-desc' => 'Samodejno zaklene zbirke podatkov wikija, če so vsi administratorji nekaj časa neaktivni',
 );
 
+/** Albanian (Shqip)
+ * @author Marinari
+ */
+$messages['sq'] = array(
+	'absenteelandlord-reason' => 'Regjistri është bllokuar automatikisht për shkak të pasivitetit nga administratorët.',
+	'absenteelandlord-desc' => 'Auto-Bllokon wiki regjistrin nëse të gjithë operatorët e sistemit janë jo-aktiv për një kohë',
+);
+
 /** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
