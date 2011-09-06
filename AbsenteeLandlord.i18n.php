@@ -215,6 +215,14 @@ $messages['es'] = array(
 	'absenteelandlord-desc' => 'Auto-bloquea la base de datos del wiki si todos los administradores se mantienen inactivos por un largo período de tiempo',
 );
 
+/** Estonian (Eesti)
+ * @author Oop
+ */
+$messages['et'] = array(
+	'absenteelandlord-reason' => 'Administraatorite tegevusetuse tõttu on see andmebaas automaatselt lukustatud.',
+	'absenteelandlord-desc' => 'Lukustab automaatselt viki andmebaasi, kui kõik süsopid on mõnda aega tegevusetud olnud',
+);
+
 /** Basque (Euskara)
  * @author Theklan
  */
