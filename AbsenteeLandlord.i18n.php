@@ -329,7 +329,7 @@ $messages['hi'] = array(
 	'absenteelandlord-desc' => 'प्रबंधकोंद्वारा कुछ समय तक कोईभी कार्य ना किये जाने पर डाटाबेस को अपनेआप ताला लगा देता हैं',
 );
 
-/** Fiji Hindi (Latin) (Fiji Hindi (Latin))
+/** Fiji Hindi (Latin script) (Fiji Hindi)
  * @author Girmitya
  */
 $messages['hif-latn'] = array(
@@ -729,7 +729,7 @@ $messages['sq'] = array(
 	'absenteelandlord-desc' => 'Auto-Bllokon wiki regjistrin nëse të gjithë operatorët e sistemit janë jo-aktiv për një kohë',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -737,7 +737,7 @@ $messages['sr-ec'] = array(
 	'absenteelandlord-desc' => 'Аутоматски закључава Вики базу података уколико су сви администратори неактивни неко време.',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -811,7 +811,7 @@ $messages['tr'] = array(
 	'absenteelandlord-desc' => 'Eğer bütün hizmetliler bir süre etkin değilse, viki veritabanını otomatik olarak kilitler',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+/** Tatar (Cyrillic script) (Татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -819,7 +819,7 @@ $messages['tt-cyrl'] = array(
 	'absenteelandlord-desc' => 'Билгеле бер вакыт эчендә идарәчеләр үзләренең активлыкларын күрсәтмәсә вики-проект ябыла',
 );
 
-/** ئۇيغۇرچە (ئۇيغۇرچە)
+/** Uyghur (Arabic script) (ئۇيغۇرچە)
  * @author Sahran
  */
 $messages['ug-arab'] = array(
