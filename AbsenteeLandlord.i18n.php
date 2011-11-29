@@ -293,8 +293,8 @@ $messages['gd'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
-	'absenteelandlord-reason' => 'A base de datos foi fechada automaticamente debido á inactividade por parte dos administradores.',
-	'absenteelandlord-desc' => 'Fecha automaticamente a base de datos wiki se todos os administradores están inactivos durante algún tempo',
+	'absenteelandlord-reason' => 'A base de datos foi pechada automaticamente debido á inactividade por parte dos administradores.',
+	'absenteelandlord-desc' => 'Pecha automaticamente a base de datos wiki se todos os administradores están inactivos durante algún tempo',
 );
 
 /** Swiss German (Alemannisch)
