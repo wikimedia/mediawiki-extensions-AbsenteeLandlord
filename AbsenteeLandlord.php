@@ -16,7 +16,7 @@ $wgExtensionCredits['other'][] = array(
 	'author' => array( 'Ryan Schmidt', 'Tim Laqua' ),
 	'version' => '1.1',
 	'descriptionmsg' => 'absenteelandlord-desc',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:AbsenteeLandlord',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:AbsenteeLandlord',
 );
 
 $wgExtensionFunctions[] = 'efAbsenteeLandlord_Setup';
