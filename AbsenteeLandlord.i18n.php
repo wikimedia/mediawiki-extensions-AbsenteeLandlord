@@ -587,7 +587,7 @@ $messages['nn'] = array(
  * @author H92
  * @author Jon Harald Søby
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'absenteelandlord-reason' => 'Databasen er automatisk låst på grunn av inaktivitet fra administratorene.',
 	'absenteelandlord-desc' => 'Låser wikiens database automatisk om alle administratorer er inaktiv i et visst tidsrom',
 );
