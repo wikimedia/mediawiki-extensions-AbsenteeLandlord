@@ -248,6 +248,14 @@ $messages['fi'] = array(
 	'absenteelandlord-desc' => 'Lukitsee wikin tietokannan automaattisesti, jos ylläpitäjät eivät ole aktiivisia tiettyyn aikaan mennessä.',
 );
 
+/** Faroese (Føroyskt)
+ * @author EileenSanda
+ */
+$messages['fo'] = array(
+	'absenteelandlord-reason' => 'Dátugrunnurin er blivin stongdur sjálvvirkandi orsakað av vantandi virksemi frá umboðsstjórum (administratorum).',
+	'absenteelandlord-desc' => 'Stongir sjálvvirkandi wiki dátugrunnin um so er at allir umboðsstjórarnir (sysops) eru óvirknir eina tíð',
+);
+
 /** French (Français)
  * @author Grondin
  * @author IAlex
@@ -551,6 +559,15 @@ $messages['mt'] = array(
 	'absenteelandlord-desc' => 'Blokkar awtomatiku tad-database tal-wiki jekk l-amministraturi huma kollha inattivi għal ċertu żmien',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author H92
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'absenteelandlord-reason' => 'Databasen er automatisk låst på grunn av inaktivitet fra administratorene.',
+	'absenteelandlord-desc' => 'Låser wikiens database automatisk om alle administratorer er inaktiv i et visst tidsrom',
+);
+
 /** Nedersaksisch (Nedersaksisch)
  * @author Servien
  */
@@ -581,15 +598,6 @@ $messages['nl'] = array(
 $messages['nn'] = array(
 	'absenteelandlord-reason' => 'Databasen har blitt låst automatisk grunna inaktivitet frå administratorane.',
 	'absenteelandlord-desc' => 'Låser databasen til wikien om alle administratorane er inaktive over eit visst tidsrom',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author H92
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'absenteelandlord-reason' => 'Databasen er automatisk låst på grunn av inaktivitet fra administratorene.',
-	'absenteelandlord-desc' => 'Låser wikiens database automatisk om alle administratorer er inaktiv i et visst tidsrom',
 );
 
 /** Occitan (Occitan)
