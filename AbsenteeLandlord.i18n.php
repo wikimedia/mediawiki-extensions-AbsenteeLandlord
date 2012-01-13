@@ -608,6 +608,14 @@ $messages['oc'] = array(
 	'absenteelandlord-desc' => 'Varrolha automaticament la banca de donadas se totes los administrators son inactius dempuèi un cèrt temps',
 );
 
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Ansumang
+ */
+$messages['or'] = array(
+	'absenteelandlord-reason' => 'ପରିଛାମାନଙ୍କ ଦ୍ଵାରା କୌଣସି କାମ କରାନଯିବାରୁ ସ୍ଵଃଚାଳିତ ରୂପେ ଡ଼ାଟାବେସ ବନ୍ଦ ହୋଇଯାଇଛି ।',
+	'absenteelandlord-desc' => 'ଯଦି ପରିଛାଗଣ କିଛି ସମୟ ପାଇଁ କାମ ନକରନ୍ତି ତେବେ ସ୍ଵଃଚାଳିତ ରୂପେ ଉଇକି ଡ଼ାଟାବେସକୁ ତାଲା ଲଗାନ୍ତୁ',
+);
+
 /** Papiamento (Papiamentu)
  * @author Sdm1985
  */
