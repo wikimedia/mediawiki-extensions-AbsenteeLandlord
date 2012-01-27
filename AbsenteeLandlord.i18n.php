@@ -746,11 +746,12 @@ $messages['sq'] = array(
 );
 
 /** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+ * @author Rancher
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
-	'absenteelandlord-reason' => 'База подтака је била аутоматски закључана због неактивности администратора.',
-	'absenteelandlord-desc' => 'Аутоматски закључава Вики базу података уколико су сви администратори неактивни неко време.',
+	'absenteelandlord-reason' => 'База података је аутоматски закључана због неактивности администратора.',
+	'absenteelandlord-desc' => 'Аутоматски закључава вики базу података ако су сви администратори неактивни неко време',
 );
 
 /** Serbian (Latin script) (‪Srpski (latinica)‬)
