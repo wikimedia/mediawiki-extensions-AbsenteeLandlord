@@ -242,10 +242,11 @@ $messages['fa'] = array(
 
 /** Finnish (Suomi)
  * @author Jaakonam
+ * @author Pxos
  */
 $messages['fi'] = array(
 	'absenteelandlord-reason' => 'Tämä tietokanta on lukittu automaattisesti ylläpitäjien aktiivisuuden puutteen takia.',
-	'absenteelandlord-desc' => 'Lukitsee wikin tietokannan automaattisesti, jos ylläpitäjät eivät ole aktiivisia tiettyyn aikaan mennessä.',
+	'absenteelandlord-desc' => 'Lukitsee wikin tietokannan automaattisesti, jos kaikki ylläpitäjät ovat riittävän kauan aikaa tekemättä mitään.',
 );
 
 /** Faroese (Føroyskt)
