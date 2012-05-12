@@ -595,6 +595,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'absenteelandlord-reason' => 'Databasen har blitt låst automatisk grunna inaktivitet frå administratorane.',
@@ -860,7 +861,7 @@ $messages['vec'] = array(
 	'absenteelandlord-desc' => 'Bloca automaticamente el database de la wiki se i aministradori i resta tuti inativi par un çerto periodo',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
