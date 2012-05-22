@@ -626,6 +626,14 @@ $messages['pap'] = array(
 	'absenteelandlord-desc' => 'Esaki outamatikamente ta pone un lòk riba e base di datos wiki si tur e sysopsnan ta inaktivo par un sierto periodo di tempu',
 );
 
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'absenteelandlord-reason' => 'De Daadebschdond isch audomadisch gschead worre, wail alli Adminischradore grad kä Lusch hawen.',
+	'absenteelandlord-desc' => 'Audomadischi Schbea vum Wiki-Daadebschdond, wonn alli Sysops said oinischa Zaid kä Luschd kabd hawen.',
+);
+
 /** Polish (Polski)
  * @author Sp5uhe
  */
