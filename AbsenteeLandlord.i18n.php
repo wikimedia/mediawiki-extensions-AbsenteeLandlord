@@ -797,6 +797,14 @@ $messages['sv'] = array(
 	'absenteelandlord-desc' => 'Låser automatiskt wikins databas om alla administratörer är frånvarande under en viss tid',
 );
 
+/** Swahili (Kiswahili)
+ * @author Stephenwanjau
+ */
+$messages['sw'] = array(
+	'absenteelandlord-reason' => 'Hifadhidata imefungwa mara moja kwa moja kutokana na kutokuwa na shughuli kutoka kwa wasimamizi.',
+	'absenteelandlord-desc' => 'Inafunga hifadhi-data kiotomati kama sysops hawatafanya shughuli kwa muda fulani',
+);
+
 /** Tamil (தமிழ்)
  * @author செல்வா
  */
