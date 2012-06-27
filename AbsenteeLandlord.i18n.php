@@ -56,6 +56,14 @@ $messages['arz'] = array(
 	'absenteelandlord-desc' => 'قاعدة بيانات الويكى بتتقفل اوتوماتيكى لو كل الاداريين ما اشتغلوش لفترة معينة',
 );
 
+/** Assamese (অসমীয়া)
+ * @author Bishnu Saikia
+ */
+$messages['as'] = array(
+	'absenteelandlord-reason' => 'প্ৰশাসকসকলৰ নিষ্ক্ৰিয়তাৰ বাবে তথ্যকোষ প্ৰৱেশাধিকাৰ স্বয়ংক্ৰিয়ভাবে সীমাবদ্ধ কৰা হৈছে।',
+	'absenteelandlord-desc' => 'প্ৰশাসকসকলে কিছুসময় কাম নকৰা বাবে তথ্যকোষ স্বয়ংক্ৰিয়ভাবে বন্ধ হৈ গৈছে।',
+);
+
 /** Asturian (asturianu)
  * @author Esbardu
  */
