@@ -911,6 +911,14 @@ $messages['vo'] = array(
 	'absenteelandlord-desc' => 'Lökofärmükon nünodemi vüka at if guvans binons nejäfidik dü tim anik',
 );
 
+/** Walloon (walon)
+ * @author Srtxg
+ */
+$messages['wa'] = array(
+	'absenteelandlord-reason' => "Li båze di dnêyes a stî blokêye otomaticmint cåze ki les manaedjeus n' sont nén actifs.",
+	'absenteelandlord-desc' => "Bloke otomaticmint l' båze di dnêyes si tos les manaedjeus sonst inactifs po ene termene di tins",
+);
+
 /** Wolof (Wolof)
  * @author Ibou
  */
