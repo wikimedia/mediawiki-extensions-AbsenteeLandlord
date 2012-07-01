@@ -97,7 +97,7 @@ $messages['bar'] = array(
 	'absenteelandlord-desc' => "Autómaatische Sperre voh da Daatenbånk, wånn d' Administraatorn fyra gwisse Zeid inaktiav san",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Jim-by
  * @author Red Winged Duck
  */
@@ -181,7 +181,7 @@ $messages['de'] = array(
 	'absenteelandlord-desc' => 'Automatische Sperre der Datenbank, wenn die Administratoren für eine bestimmte Zeit inaktiv sind',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -306,7 +306,7 @@ $messages['gd'] = array(
 	'absenteelandlord-desc' => "Glasaidh seo an stòr-dàta wiki ma bhios na sysops uile gu lèir 'nan tàmh fad greis",
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -363,7 +363,7 @@ $messages['hr'] = array(
 	'absenteelandlord-desc' => 'Automatski zaključava wiki bazu ukoliko su svi administratori neaktivni neko vrijeme',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
