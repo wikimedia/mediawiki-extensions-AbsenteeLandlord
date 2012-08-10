@@ -80,7 +80,7 @@ $messages['az'] = array(
 	'absenteelandlord-desc' => 'Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -174,11 +174,12 @@ $messages['da'] = array(
 
 /** German (Deutsch)
  * @author Gnu1742
+ * @author Kghbln
  * @author Raimond Spekking
  */
 $messages['de'] = array(
-	'absenteelandlord-reason' => 'Die Datenbank wurde automatisch gesperrt, da kein Administrator aktiv ist.',
-	'absenteelandlord-desc' => 'Automatische Sperre der Datenbank, wenn die Administratoren für eine bestimmte Zeit inaktiv sind',
+	'absenteelandlord-reason' => 'Die Datenbank wurde automatisch für den Schreibzugriff gesperrt, da momentan kein Administrator des Wikis aktiv ist.',
+	'absenteelandlord-desc' => 'Ermöglicht eine automatische Sperre der Datenbank für den Schreibzugriff, sofern alle Administratoren eines Wikis für einen bestimmten Zeitraum inaktiv sind',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -569,9 +570,8 @@ $messages['mt'] = array(
 	'absenteelandlord-desc' => 'Blokkar awtomatiku tad-database tal-wiki jekk l-amministraturi huma kollha inattivi għal ċertu żmien',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author H92
- * @author Jon Harald Søby
  */
 $messages['nb'] = array(
 	'absenteelandlord-reason' => 'Databasen er automatisk låst på grunn av inaktivitet fra administratorene.',
@@ -886,7 +886,7 @@ $messages['vec'] = array(
 	'absenteelandlord-desc' => 'Bloca automaticamente el database de la wiki se i aministradori i resta tuti inativi par un çerto periodo',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
