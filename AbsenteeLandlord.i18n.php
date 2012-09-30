@@ -919,6 +919,14 @@ $messages['wa'] = array(
 	'absenteelandlord-desc' => "Bloke otomaticmint l' båze di dnêyes si tos les manaedjeus sonst inactifs po ene termene di tins",
 );
 
+/** Waray (Winaray)
+ * @author Harvzsf
+ */
+$messages['war'] = array(
+	'absenteelandlord-reason' => 'Ginlugaring pagtrangkaha an database tungod hin waray paggi-os han mga nagdudumara',
+	'absenteelandlord-desc' => 'Ginlulugaring-pagtrangka an wiki nga database kon an mga sysop mga waray paggi-os hin pira ka panahon',
+);
+
 /** Wolof (Wolof)
  * @author Ibou
  */
