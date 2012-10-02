@@ -97,7 +97,7 @@ $messages['bar'] = array(
 	'absenteelandlord-desc' => "Autómaatische Sperre voh da Daatenbånk, wånn d' Administraatorn fyra gwisse Zeid inaktiav san",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Jim-by
  * @author Red Winged Duck
  */
@@ -570,7 +570,7 @@ $messages['mt'] = array(
 	'absenteelandlord-desc' => 'Blokkar awtomatiku tad-database tal-wiki jekk l-amministraturi huma kollha inattivi għal ċertu żmien',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author H92
  */
 $messages['nb'] = array(
@@ -602,7 +602,7 @@ $messages['nl'] = array(
 	'absenteelandlord-desc' => 'Sluit de database automatisch als de beheerders allemaal gedurende een bepaalde tijd inactief zijn',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -764,7 +764,7 @@ $messages['sq'] = array(
 	'absenteelandlord-desc' => 'Auto-Bllokon wiki regjistrin nëse të gjithë operatorët e sistemit janë jo-aktiv për një kohë',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -773,7 +773,7 @@ $messages['sr-ec'] = array(
 	'absenteelandlord-desc' => 'Аутоматски закључава вики базу података ако су сви администратори неактивни неко време',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -935,7 +935,7 @@ $messages['wo'] = array(
 	'absenteelandlord-desc' => 'Dàttub njoxe bi caabi boppam su yorkat yi yënguwul benn diir bi.',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author PhiLiP
  */
@@ -944,7 +944,7 @@ $messages['zh-hans'] = array(
 	'absenteelandlord-desc' => '在所有管理员在一段时间内都不活跃时，自动锁定此wiki的数据库',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Alexsh
  * @author Mark85296341
  * @author Wrightbus
