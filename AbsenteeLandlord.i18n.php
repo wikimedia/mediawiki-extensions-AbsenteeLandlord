@@ -16,10 +16,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'absenteelandlord-desc' => '{{desc}}',
+	'absenteelandlord-desc' => '{{desc|name=Absentee Landlord|url=http://www.mediawiki.org/wiki/Extension:AbsenteeLandlord}}',
 );
 
 /** Afrikaans (Afrikaans)
@@ -595,11 +596,12 @@ $messages['ne'] = array(
 );
 
 /** Dutch (Nederlands)
+ * @author Rcdeboer
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'absenteelandlord-reason' => 'De database is automatisch afgesloten vanwege inactiviteit van de beheerders.',
-	'absenteelandlord-desc' => 'Sluit de database automatisch als de beheerders allemaal gedurende een bepaalde tijd inactief zijn',
+	'absenteelandlord-reason' => 'De database is automatisch vergrendeld vanwege inactiviteit van de beheerders.',
+	'absenteelandlord-desc' => 'Vergrendelt de database automatisch als de beheerders allemaal gedurende een bepaalde tijd inactief zijn',
 );
 
 /** Norwegian Nynorsk (norsk (nynorsk)‎)
