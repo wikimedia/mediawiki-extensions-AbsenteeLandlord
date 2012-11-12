@@ -81,6 +81,14 @@ $messages['az'] = array(
 	'absenteelandlord-desc' => 'Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir',
 );
 
+/** South Azerbaijani (South Azerbaijani)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'absenteelandlord-reason' => 'بو وئریلن‌لر بازاسی سیسوپلارداکی دورغونلوق سببیله آوتوماتیک اولا‌راق باغ‌لی‌دیر.',
+	'absenteelandlord-desc' => 'مویین مدت عرضینده ایداره‌چی‌لرین هئچ بیری فال اولمادیقدا ویکی لاییهه‌نین وئریلن‌لر بازاسینی آوتوماتیک کیلیدلییر',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  */
