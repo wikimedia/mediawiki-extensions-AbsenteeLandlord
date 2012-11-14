@@ -81,7 +81,7 @@ $messages['az'] = array(
 	'absenteelandlord-desc' => 'Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir',
 );
 
-/** South Azerbaijani (South Azerbaijani)
+/** تورکجه (تورکجه)
  * @author Amir a57
  */
 $messages['azb'] = array(
