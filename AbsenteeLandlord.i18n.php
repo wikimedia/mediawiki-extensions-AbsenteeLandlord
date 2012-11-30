@@ -422,6 +422,14 @@ $messages['ig'] = array(
 	'absenteelandlord-desc' => 'Na gbáchí njikota omȧrı o bu na sysops eméghị ihe obula ngwa ngwa',
 );
 
+/** Icelandic (íslenska)
+ * @author S.Örvarr.S
+ */
+$messages['is'] = array(
+	'absenteelandlord-reason' => 'Gagnagrunninum hefur verið sjálfkrafa læst vegna óvirkni stjórnenda.',
+	'absenteelandlord-desc' => 'Sjálflæsir wiki-gagnagrunninum ef allir stjórnendur eru óvirkir í einhvern tíma',
+);
+
 /** Italian (italiano)
  * @author Darth Kule
  */
