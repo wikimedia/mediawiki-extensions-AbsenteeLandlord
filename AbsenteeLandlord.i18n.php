@@ -106,6 +106,14 @@ $messages['bar'] = array(
 	'absenteelandlord-desc' => "Autómaatische Sperre voh da Daatenbånk, wånn d' Administraatorn fyra gwisse Zeid inaktiav san",
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'absenteelandlord-reason' => 'An datos-sarayan awtomatikong pinagkandaduhan nin huli sa dae paggagamit gikan sa mga administrador.',
+	'absenteelandlord-desc' => 'Awtomatikong minakandado an datos-sarayan kan wiki kun an gabos na mga operador kan sistema dae naggagamit sa halawig na panahon',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Jim-by
  * @author Red Winged Duck
