@@ -902,6 +902,7 @@ $messages['tt-cyrl'] = array(
  */
 $messages['ug-arab'] = array(
 	'absenteelandlord-reason' => 'باشقۇرغۇچى ئاكتىپ بولمىغانلىقتىن ساندان ئۆزلۈكىدىن قۇلۇپلاندى.',
+	'absenteelandlord-desc' => 'ھەممە باشقۇرغۇچى بىر مەزگىل ئاكتىپ بولمىسىلا ئاۆزلۈكىدىن بۇ ۋىكى ساندانى قۇلۇپلىنىدۇ',
 );
 
 /** Ukrainian (українська)
