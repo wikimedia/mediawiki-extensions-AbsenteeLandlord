@@ -546,6 +546,14 @@ $messages['lv'] = array(
 	'absenteelandlord-desc' => 'Automātiski bloķē wiki-projekta datu bāzi, ja visi administratori kādu laiku ir neaktīvi',
 );
 
+/** Basa Banyumasan (Basa Banyumasan)
+ * @author StefanusRA
+ */
+$messages['map-bms'] = array(
+	'absenteelandlord-reason' => 'Basis data wis dekunci otomatis jalaran para opsise wis ora ana aktivitas.',
+	'absenteelandlord-desc' => 'Ngunci-otomatis basis data wiki angger para opsis ora aktif kabeh sawetara wektu',
+);
+
 /** Malagasy (Malagasy)
  * @author Jagwar
  */
