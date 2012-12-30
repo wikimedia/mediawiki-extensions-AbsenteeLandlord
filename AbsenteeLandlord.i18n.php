@@ -579,6 +579,13 @@ $messages['ml'] = array(
 	'absenteelandlord-desc' => 'എല്ലാ കാര്യനിർവാഹകരും നിശ്ചിത സമയ പരിധിയിൽ കൂടുതൽ നിഷ്ക്രിയരായിരുന്നാൽ വിക്കി വിവരശേഖരം സ്വയം ബന്ധിക്കപ്പെടുന്നു.',
 );
 
+/** Mongolian (монгол)
+ * @author Wisdom
+ */
+$messages['mn'] = array(
+	'absenteelandlord-reason' => 'Уг өгөгдөл идэвхигүй байсан тул админий шийдвэрээр түгжигдсэн байна.',
+);
+
 /** Marathi (मराठी)
  * @author Kaustubh
  */
