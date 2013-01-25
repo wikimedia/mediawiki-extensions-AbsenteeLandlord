@@ -482,10 +482,11 @@ $messages['km'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
 	'absenteelandlord-reason' => '관리자의 부재로 인해 데이터베이스가 자동으로 잠겼습니다.',
-	'absenteelandlord-desc' => '모든 관리자가 일정한 기간동안 활동하지 않으면 자동으로 위키 데이터베이스를 잠금',
+	'absenteelandlord-desc' => '모든 관리자가 일정한 기간 동안 활동하지 않으면 자동으로 위키 데이터베이스를 잠급니다',
 );
 
 /** Komi-Permyak (Перем Коми)
