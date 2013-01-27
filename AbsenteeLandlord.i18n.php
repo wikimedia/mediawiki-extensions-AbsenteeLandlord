@@ -81,7 +81,7 @@ $messages['az'] = array(
 	'absenteelandlord-desc' => 'Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir',
 );
 
-/** تورکجه (تورکجه)
+/** South Azerbaijani (تورکجه)
  * @author Amir a57
  */
 $messages['azb'] = array(
@@ -619,7 +619,7 @@ $messages['nb'] = array(
 	'absenteelandlord-desc' => 'Låser wikiens database automatisk om alle administratorer er inaktiv i et visst tidsrom',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
