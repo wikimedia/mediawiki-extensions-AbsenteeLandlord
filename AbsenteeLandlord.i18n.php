@@ -20,6 +20,9 @@ $messages['en'] = array(
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
+	'absenteelandlord-reason' => 'Used as reason the wiki is locked (<code>$wgReadOnly</code>).
+
+See [[mw:Manual:$wgReadOnly]].',
 	'absenteelandlord-desc' => '{{desc|name=Absentee Landlord|url=http://www.mediawiki.org/wiki/Extension:AbsenteeLandlord}}',
 );
 
