@@ -592,10 +592,11 @@ $messages['mn'] = array(
 
 /** Marathi (मराठी)
  * @author Kaustubh
+ * @author Shantanoo
  */
 $messages['mr'] = array(
-	'absenteelandlord-reason' => 'प्रबंधकांकडून कार्ये न झाल्यामुळे विदागाराला आपोआप कुलुप लावण्यात आलेले आहे.',
-	'absenteelandlord-desc' => 'प्रबंधकांकडून काही काळासाठी कुठलीही क्रिया न झाल्यान विदागाराला आपोआप कुलुप घालतो',
+	'absenteelandlord-reason' => 'प्रबंधकांकडून कार्ये न झाल्यामुळे विदागाराला आपोआप कुलूप लावण्यात आलेले आहे.',
+	'absenteelandlord-desc' => 'प्रबंधकांकडून काही काळासाठी कुठलीही क्रिया न झाल्यान विदागाराला आपोआप कुलूप घालतो',
 );
 
 /** Malay (Bahasa Melayu)
