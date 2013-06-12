@@ -306,6 +306,14 @@ $messages['frp'] = array(
 	'absenteelandlord-desc' => 'Vèrrolye ôtomaticament la bâsa de balyês se tôs los administrators font ren du tot dês quârque temps.',
 );
 
+/** Northern Frisian (Nordfriisk)
+ * @author Murma174
+ */
+$messages['frr'] = array(
+	'absenteelandlord-reason' => 'Det dootenbeenk as slööden wurden, auer diar uun uugenblak nian aktiif administratooren san.',
+	'absenteelandlord-desc' => 'Slot det wiki-dootenbeenk, wan diar för en was tidj nian aktiif administratooren san.',
+);
+
 /** Western Frisian (Frysk)
  * @author Pyt
  */
