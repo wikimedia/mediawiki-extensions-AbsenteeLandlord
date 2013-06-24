@@ -696,7 +696,7 @@ $messages['pap'] = array(
  * @author Manuae
  */
 $messages['pfl'] = array(
-	'absenteelandlord-reason' => 'De Daadebschdond isch audomadisch gschead worre, wail alli Adminischradore grad kä Lusch hawen.',
+	'absenteelandlord-reason' => 'De Daadebschdond isch selbschdschdendisch gschberd worre, wail alli Adminischradore grad kä Luschd hawen.',
 	'absenteelandlord-desc' => 'Audomadischi Schbea vum Wiki-Daadebschdond, wonn alli Sysops said oinischa Zaid kä Luschd kabd hawen.',
 );
 
