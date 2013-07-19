@@ -798,6 +798,14 @@ $messages['scn'] = array(
 	'absenteelandlord-desc' => "Blocca autumàticamenti lu database di na wiki si tutti l'amministraturi soi non sunnu attivi pi quarchi tempu",
 );
 
+/** Serbo-Croatian (srpskohrvatski / српскохрватски)
+ * @author OC Ripper
+ */
+$messages['sh'] = array(
+	'absenteelandlord-reason' => 'Baza podataka je automatski zaključana zbog neaktivnosti administratora.',
+	'absenteelandlord-desc' => 'Automatsko zaključavanje wiki baze podataka ako su svi administratori neaktivni neko vrijeme',
+);
+
 /** Sinhala (සිංහල)
  * @author Priyawee
  */
