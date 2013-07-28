@@ -731,7 +731,7 @@ $messages['ps'] = array(
  * @author Malafaya
  */
 $messages['pt'] = array(
-	'absenteelandlord-reason' => 'A base de dados foi automaticamente bloqueada devido a inactividade dos sysops.',
+	'absenteelandlord-reason' => 'A base de dados foi automaticamente bloqueada devido a inatividade dos administradores.',
 	'absenteelandlord-desc' => 'Bloqueia a base dados da wiki automaticamente se todos os administradores estiverem inativos durante algum tempo',
 );
 
