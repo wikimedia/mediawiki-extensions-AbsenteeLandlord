@@ -60,7 +60,7 @@ $messages['arz'] = array(
 	'absenteelandlord-desc' => 'قاعدة بيانات الويكى بتتقفل اوتوماتيكى لو كل الاداريين ما اشتغلوش لفترة معينة',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  */
 $messages['as'] = array(
@@ -627,7 +627,7 @@ $messages['mt'] = array(
 	'absenteelandlord-desc' => 'Blokkar awtomatiku tad-database tal-wiki jekk l-amministraturi huma kollha inattivi għal ċertu żmien',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author H92
  */
 $messages['nb'] = array(
@@ -635,7 +635,7 @@ $messages['nb'] = array(
 	'absenteelandlord-desc' => 'Låser wikiens database automatisk om alle administratorer er inaktiv i et visst tidsrom',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -660,7 +660,7 @@ $messages['nl'] = array(
 	'absenteelandlord-desc' => 'Vergrendelt de database automatisch als de beheerders allemaal gedurende een bepaalde tijd inactief zijn',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -677,7 +677,7 @@ $messages['oc'] = array(
 	'absenteelandlord-desc' => 'Varrolha automaticament la banca de donadas se totes los administrators son inactius dempuèi un cèrt temps',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  */
 $messages['or'] = array(
