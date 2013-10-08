@@ -1011,6 +1011,13 @@ $messages['wo'] = array(
 	'absenteelandlord-desc' => 'Dàttub njoxe bi caabi boppam su yorkat yi yënguwul benn diir bi.',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'absenteelandlord-reason' => 'די דאטנבאזע איז געווארן אויטאמאטיש פארשפארט צוליב קיין טעטיקייט פון סיסאפן.',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author PhiLiP
