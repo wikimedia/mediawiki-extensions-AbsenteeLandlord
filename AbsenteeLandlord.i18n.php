@@ -170,7 +170,7 @@ $messages['ca'] = array(
 	'absenteelandlord-desc' => 'Bloca automàticament la base de dades del viqui si tots els administradors fa temps que estan inactius',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Matěj Grabovský
  */
 $messages['cs'] = array(
