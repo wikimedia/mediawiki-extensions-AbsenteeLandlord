@@ -314,6 +314,14 @@ $messages['frr'] = array(
 	'absenteelandlord-desc' => 'Slot det wiki-dootenbeenk, wan diar för en was tidj nian aktiif administratooren san.',
 );
 
+/** Friulian (furlan)
+ * @author Tocaibon
+ */
+$messages['fur'] = array(
+	'absenteelandlord-reason' => 'IL database al è stât blocât in automatic par vie de inativitât dai aministratôrs',
+	'absenteelandlord-desc' => 'Bloche in automatic il database di une wiki se ducj i aministratôrs a son inatîfs di un pôc di timp.',
+);
+
 /** Western Frisian (Frysk)
  * @author Pyt
  */
