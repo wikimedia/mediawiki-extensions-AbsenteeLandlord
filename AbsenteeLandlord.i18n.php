@@ -170,6 +170,14 @@ $messages['ca'] = array(
 	'absenteelandlord-desc' => 'Bloca automàticament la base de dades del viqui si tots els administradors fa temps que estan inactius',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'absenteelandlord-reason' => 'Куьйгалхой жигара цахиларна хаамийн базан автоматически блоктоьхна.',
+	'absenteelandlord-desc' => 'Куьйгалхой жигара бацахь вики-проектан хаамийн базан автоматически блоктуху',
+);
+
 /** Czech (čeština)
  * @author Matěj Grabovský
  */
