@@ -370,6 +370,14 @@ $messages['gsw'] = array(
 	'absenteelandlord-desc' => 'Automatischi Sperri vu dr Datebank, wänn alli Ammanne e Zytlang inaktiv sin',
 );
 
+/** Hakka (客家語/Hak-kâ-ngî)
+ * @author EagerLin
+ */
+$messages['hak'] = array(
+	'absenteelandlord-reason' => '由於管理員不活躍，資料庫已經被自動鎖定。',
+	'absenteelandlord-desc' => '若所有个管理人員在一段時間內不活躍，維基資料庫將被自動鎖定',
+);
+
 /** Hawaiian (Hawai`i)
  * @author Singularity
  */
