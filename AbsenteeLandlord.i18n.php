@@ -824,6 +824,14 @@ $messages['scn'] = array(
 	'absenteelandlord-desc' => "Blocca autumàticamenti lu database di na wiki si tutti l'amministraturi soi non sunnu attivi pi quarchi tempu",
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'absenteelandlord-reason' => 'The database haes been autæmaticly lockit cause o a lack o activity fae the admeenistraters.',
+	'absenteelandlord-desc' => 'Autæ-locks the wiki database gif the sysops haena been active fer ae while',
+);
+
 /** Serbo-Croatian (srpskohrvatski / српскохрватски)
  * @author OC Ripper
  */
