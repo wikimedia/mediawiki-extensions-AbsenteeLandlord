@@ -468,6 +468,14 @@ $messages['ig'] = array(
 	'absenteelandlord-desc' => 'Na gbáchí njikota omȧrı o bu na sysops eméghị ihe obula ngwa ngwa',
 );
 
+/** Iloko (Ilokano)
+ * @author Lam-ang
+ */
+$messages['ilo'] = array(
+	'absenteelandlord-reason' => 'Ti database ket automatikon a naserraan gapu ti in-aktibidad manipud kadagiti administador.',
+	'absenteelandlord-desc' => 'Auromatikona a serraan ti database ti wiki no nabayagen a saan nga aktibo dagiti sysop.',
+);
+
 /** Icelandic (íslenska)
  * @author S.Örvarr.S
  */
