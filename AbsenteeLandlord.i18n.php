@@ -379,11 +379,12 @@ $messages['hak'] = array(
 );
 
 /** Hawaiian (Hawai`i)
+ * @author Kolonahe
  * @author Singularity
  */
 $messages['haw'] = array(
-	'absenteelandlord-reason' => 'Ua kī aku hana nona iho ‘ia ka hōkeo ‘ikepili no ka mea o ka noho wale o nā kahu.',
-	'absenteelandlord-desc' => 'Inā e noho wale nā kahu no kekahi manawa, e kī aku hana nona iho i ka hōkeo ‘ikepili',
+	'absenteelandlord-reason' => 'Ua hikalaka ‘ia ka hōkeo ‘ikepili no ka mea o ka noho wale o nā kahu.',
+	'absenteelandlord-desc' => 'Inā e noho wale nā kahu no kekahi manawa, e hikalaka i ka hōkeo ‘ikepili',
 );
 
 /** Hebrew (עברית)
