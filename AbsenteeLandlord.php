@@ -14,7 +14,7 @@ $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Absentee Landlord',
 	'author' => array( 'Ryan Schmidt', 'Tim Laqua' ),
-	'version' => '1.1',
+	'version' => '1.2.0',
 	'descriptionmsg' => 'absenteelandlord-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:AbsenteeLandlord',
 );
@@ -22,6 +22,7 @@ $wgExtensionCredits['other'][] = array(
 $wgExtensionFunctions[] = 'efAbsenteeLandlord_Setup';
 $wgHooks['BeforePageDisplay'][] = 'efAbsenteeLandlord_MaybeDoTouch';
 
+$wgMessagesDirs['AbsenteeLandlord'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['AbsenteeLandlord'] =  dirname( __FILE__ ) . '/AbsenteeLandlord.i18n.php';
 
 function efAbsenteeLandlord_Setup() {
@@ -39,7 +40,7 @@ function efAbsenteeLandlord_Setup() {
 			global $wgReadOnly;
 
 			# Add Messages (don't need them unless we get here)
-			
+
 			$wgReadOnly = wfMsg( 'absenteelandlord-reason' );
 		}
 	}
