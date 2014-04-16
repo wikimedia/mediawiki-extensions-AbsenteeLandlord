@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Matasg"
-        ]
-    },
-    "absenteelandlord-reason": "Ši duomenų bazė buvo automatiškai užrakinta dėl administratorių neaktyvumo.",
-    "absenteelandlord-desc": "Automatiškai užrakina wiki duomenų bazę jei administratoriai yra tam tikrą laiką neaktyvūs"
+	"@metadata": {
+		"authors": [
+			"Matasg"
+		]
+	},
+	"absenteelandlord-reason": "Ši duomenų bazė buvo automatiškai užrakinta dėl administratorių neaktyvumo.",
+	"absenteelandlord-desc": "Automatiškai užrakina wiki duomenų bazę jei administratoriai yra tam tikrą laiką neaktyvūs"
 }

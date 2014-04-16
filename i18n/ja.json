@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Aotake",
-            "Hosiryuhosi",
-            "Shirayuki"
-        ]
-    },
-    "absenteelandlord-reason": "管理者が活動を停止しているため、自動的にデータベースがロックされました。",
-    "absenteelandlord-desc": "すべての管理者が一定期間活動しない場合、ウィキのデータベースを自動的にロックする"
+	"@metadata": {
+		"authors": [
+			"Aotake",
+			"Hosiryuhosi",
+			"Shirayuki"
+		]
+	},
+	"absenteelandlord-reason": "管理者が活動を停止しているため、自動的にデータベースがロックされました。",
+	"absenteelandlord-desc": "すべての管理者が一定期間活動しない場合、ウィキのデータベースを自動的にロックする"
 }

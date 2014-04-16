@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "CERminator"
-        ]
-    },
-    "absenteelandlord-reason": "Baza podataka je automatski zaključana zbog neaktivnosti administratora.",
-    "absenteelandlord-desc": "Automatsko zaključavanje wiki baze podataka ako su svi administratori neaktivni neko vrijeme"
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"absenteelandlord-reason": "Baza podataka je automatski zaključana zbog neaktivnosti administratora.",
+	"absenteelandlord-desc": "Automatsko zaključavanje wiki baze podataka ako su svi administratori neaktivni neko vrijeme"
 }

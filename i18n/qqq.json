@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Purodha",
-            "Shirayuki",
-            "The Evil IP address"
-        ]
-    },
-    "absenteelandlord-reason": "Used as reason the wiki is locked (<code>$wgReadOnly</code>).\n\nSee [[mw:Manual:$wgReadOnly]].",
-    "absenteelandlord-desc": "{{desc|name=Absentee Landlord|url=http://www.mediawiki.org/wiki/Extension:AbsenteeLandlord}}"
+	"@metadata": {
+		"authors": [
+			"Purodha",
+			"Shirayuki",
+			"The Evil IP address"
+		]
+	},
+	"absenteelandlord-reason": "Used as reason the wiki is locked (<code>$wgReadOnly</code>).\n\nSee [[mw:Manual:$wgReadOnly]].",
+	"absenteelandlord-desc": "{{desc|name=Absentee Landlord|url=http://www.mediawiki.org/wiki/Extension:AbsenteeLandlord}}"
 }

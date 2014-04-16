@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Esbardu"
-        ]
-    },
-    "absenteelandlord-reason": "La base de datos foi bloquiada automáticamente por inactividá de los aliministradores.",
-    "absenteelandlord-desc": "Autobloquea la base de datos wiki si los alministradores tán toos inactivos dalgún tiempu"
+	"@metadata": {
+		"authors": [
+			"Esbardu"
+		]
+	},
+	"absenteelandlord-reason": "La base de datos foi bloquiada automáticamente por inactividá de los aliministradores.",
+	"absenteelandlord-desc": "Autobloquea la base de datos wiki si los alministradores tán toos inactivos dalgún tiempu"
 }

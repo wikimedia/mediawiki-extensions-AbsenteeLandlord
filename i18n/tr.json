@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joseph",
-            "Karduelis"
-        ]
-    },
-    "absenteelandlord-reason": "Bu veritabanı sysoplardaki durgunluk nedeniyle otomatik olarak kilitlenmiştir.",
-    "absenteelandlord-desc": "Eğer bütün hizmetliler bir süre etkin değilse, viki veritabanını otomatik olarak kilitler"
+	"@metadata": {
+		"authors": [
+			"Joseph",
+			"Karduelis"
+		]
+	},
+	"absenteelandlord-reason": "Bu veritabanı sysoplardaki durgunluk nedeniyle otomatik olarak kilitlenmiştir.",
+	"absenteelandlord-desc": "Eğer bütün hizmetliler bir süre etkin değilse, viki veritabanını otomatik olarak kilitler"
 }

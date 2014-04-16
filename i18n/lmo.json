@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Sprüngli"
-        ]
-    },
-    "absenteelandlord-reason": "La basa de data a l'é staida automatigament blocada per l'inativitaa da la part di administradour",
-    "absenteelandlord-desc": "Auto-bloca la basa de data deò wiki se cas che i administradour i en inativ per vargun temp"
+	"@metadata": {
+		"authors": [
+			"Sprüngli"
+		]
+	},
+	"absenteelandlord-reason": "La basa de data a l'é staida automatigament blocada per l'inativitaa da la part di administradour",
+	"absenteelandlord-desc": "Auto-bloca la basa de data deò wiki se cas che i administradour i en inativ per vargun temp"
 }

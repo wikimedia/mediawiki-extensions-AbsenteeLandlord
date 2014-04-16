@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Darth Kule"
-        ]
-    },
-    "absenteelandlord-reason": "Il database è stato automaticamente bloccato a causa dell'inattività degli amministratori.",
-    "absenteelandlord-desc": "Blocca automaticamente il database di una wiki se tutti i suoi amministratori sono inattivi per qualche tempo"
+	"@metadata": {
+		"authors": [
+			"Darth Kule"
+		]
+	},
+	"absenteelandlord-reason": "Il database è stato automaticamente bloccato a causa dell'inattività degli amministratori.",
+	"absenteelandlord-desc": "Blocca automaticamente il database di una wiki se tutti i suoi amministratori sono inattivi per qualche tempo"
 }

@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michaello"
-        ]
-    },
-    "absenteelandlord-reason": "Baza podtaka je bila automatski zaključana zbog neaktivnosti administratora.",
-    "absenteelandlord-desc": "Automatski zaključava Viki bazu podataka ukoliko su svi administratori neaktivni neko vreme."
+	"@metadata": {
+		"authors": [
+			"Michaello"
+		]
+	},
+	"absenteelandlord-reason": "Baza podtaka je bila automatski zaključana zbog neaktivnosti administratora.",
+	"absenteelandlord-desc": "Automatski zaključava Viki bazu podataka ukoliko su svi administratori neaktivni neko vreme."
 }
