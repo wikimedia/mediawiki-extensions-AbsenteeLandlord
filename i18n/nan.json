@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ianbu"
+		]
+	},
+	"absenteelandlord-reason": "因為做管理員的儂無來管理，資料庫已經自動鎖掉。",
+	"absenteelandlord-desc": "佇一段時間內底，若所有的管理人員若無來，維基資料庫會自動鎖掉。"
+}
