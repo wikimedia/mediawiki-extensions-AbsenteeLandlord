@@ -41,7 +41,7 @@ function efAbsenteeLandlord_Setup() {
 
 			# Add Messages (don't need them unless we get here)
 
-			$wgReadOnly = wfMsg( 'absenteelandlord-reason' );
+			$wgReadOnly = wfMessage( 'absenteelandlord-reason' )->text();
 		}
 	}
 
