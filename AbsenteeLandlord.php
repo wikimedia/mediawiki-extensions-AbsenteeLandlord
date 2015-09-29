@@ -4,7 +4,7 @@
 */
 
 if ( !defined( 'MEDIAWIKI' ) ) {
-	echo( "This file is an extension to the MediaWiki software and cannot be used standalone\n" );
+	echo "This file is an extension to the MediaWiki software and cannot be used standalone\n";
 	die( 1 );
 }
 
@@ -23,12 +23,13 @@ $wgExtensionFunctions[] = 'efAbsenteeLandlord_Setup';
 $wgHooks['BeforePageDisplay'][] = 'efAbsenteeLandlord_MaybeDoTouch';
 
 $wgMessagesDirs['AbsenteeLandlord'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['AbsenteeLandlord'] =  dirname( __FILE__ ) . '/AbsenteeLandlord.i18n.php';
+$wgExtensionMessagesFiles['AbsenteeLandlord'] =  __DIR__ . '/AbsenteeLandlord.i18n.php';
 
 function efAbsenteeLandlord_Setup() {
 	global $wgAbsenteeLandlordMaxDays;
 
-	$timeout = $wgAbsenteeLandlordMaxDays * 24 * 60 * 60; // # days * 24 hours * 60 minutes * 60 seconds
+	// # days * 24 hours * 60 minutes * 60 seconds
+	$timeout = $wgAbsenteeLandlordMaxDays * 24 * 60 * 60;
 	$lasttouched = filemtime( dirname( __FILE__ ) . '/lasttouched.txt' );
 	$check = time() - $lasttouched;
 
