@@ -23,7 +23,6 @@ $wgExtensionFunctions[] = 'efAbsenteeLandlord_Setup';
 $wgHooks['BeforePageDisplay'][] = 'efAbsenteeLandlord_MaybeDoTouch';
 
 $wgMessagesDirs['AbsenteeLandlord'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['AbsenteeLandlord'] =  __DIR__ . '/AbsenteeLandlord.i18n.php';
 
 function efAbsenteeLandlord_Setup() {
 	global $wgAbsenteeLandlordMaxDays;
