@@ -1,0 +1,30 @@
+{
+	"name": "Absentee Landlord",
+	"version": "1.3.0",
+	"author": [
+		"Ryan Schmidt",
+		"Tim Laqua"
+	],
+	"license-name": "GPL-2.0+",
+	"url": "https://www.mediawiki.org/wiki/Extension:AbsenteeLandlord",
+	"descriptionmsg": "absenteelandlord-desc",
+	"type": "other",
+	"config": {
+		"AbsenteeLandlordMaxDays": 90
+	},
+	"ExtensionFunctions": [
+		"AbsenteeLandlord::setup"
+	],
+	"MessagesDirs": {
+		"AbsenteeLandlord": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"AbsenteeLandlord": "AbsenteeLandlord.class.php"
+	},
+	"Hooks": {
+		"BeforePageDisplay": "AbsenteeLandlord::maybeDoTouch"
+	},
+	"manifest_version": 1
+}
