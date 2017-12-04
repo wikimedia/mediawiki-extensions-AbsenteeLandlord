@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"H92"
+			"H92",
+			"Jon Harald Søby"
 		]
 	},
 	"absenteelandlord-reason": "Databasen er automatisk låst på grunn av inaktivitet fra administratorene.",
