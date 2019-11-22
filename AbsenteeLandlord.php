@@ -1,28 +1,14 @@
 <?php
-/** \file
-* \brief Contains code for the AbsenteeLandlord extension by Ryan Schmidt and Tim Laqua.
-*/
-
-if ( !defined( 'MEDIAWIKI' ) ) {
-	echo "This file is an extension to the MediaWiki software and cannot be used standalone\n";
-	die( 1 );
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'AbsenteeLandlord' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['AbsenteeLandlord'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for the AbsenteeLandlord extension. ' .
+		'Please use wfLoadExtension instead, ' .
+		'see https://www.mediawiki.org/wiki/Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the AbsenteeLandlord extension requires MediaWiki 1.25+' );
 }
-
-$wgAbsenteeLandlordMaxDays = 90; // how many days do the sysops have to be inactive for?
-
-$wgExtensionCredits['other'][] = [
-	'path' => __FILE__,
-	'name' => 'Absentee Landlord',
-	'author' => [ 'Ryan Schmidt', 'Tim Laqua' ],
-	'license-name' => 'GPL-2.0-or-later',
-	'version' => '1.3.0',
-	'descriptionmsg' => 'absenteelandlord-desc',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:AbsenteeLandlord',
-];
-
-$wgAutoloadClasses['AbsenteeLandlord'] = __DIR__ . '/AbsenteeLandlord.class.php';
-
-$wgExtensionFunctions[] = 'AbsenteeLandlord::setup';
-$wgHooks['BeforePageDisplay'][] = 'AbsenteeLandlord::maybeDoTouch';
-
-$wgMessagesDirs['AbsenteeLandlord'] = __DIR__ . '/i18n';
