@@ -8,6 +8,6 @@
 			"Umherirrender"
 		]
 	},
-	"absenteelandlord-reason": "{{#switch:{{UILANGCODE}}\n|en = Used as reason the wiki is locked (<code>$wgReadOnly</code>).\n\nSee [[mw:Manual:$wgReadOnly]].\n|tr = Vikinin kilitlenme nedeni olarak kullanılır (<code>$wgReadOnly</code>).\n\n[[mw:Manual:$wgReadOnly/tr]] sayfasına bakın.\n}}",
+	"absenteelandlord-reason": "Used as reason the wiki is locked (<code>$wgReadOnly</code>).\n\nSee [[mw:Manual:$wgReadOnly]].",
 	"absenteelandlord-desc": "{{desc|name=Absentee Landlord|url=https://www.mediawiki.org/wiki/Extension:AbsenteeLandlord}}"
 }
