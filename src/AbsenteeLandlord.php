@@ -15,6 +15,10 @@ use Wikimedia\Services\ServiceContainer;
  */
 class AbsenteeLandlord {
 
+	/**
+	 * @param MediaWikiServices $mws
+	 * @return ReadOnlyMode
+	 */
 	public static function onMediaWikiServices( MediaWikiServices $mws ) {
 		$mws->addServiceManipulator( 'ReadOnlyMode',
 			static function ( ReadOnlyMode $svc, ServiceContainer $cont ) {
@@ -22,10 +26,15 @@ class AbsenteeLandlord {
 			} );
 	}
 
+	/**
+	 * @param OutputPage &$out
+	 * @param Skin &$skin
+	 * @return bool
+	 */
 	public static function maybeDoTouch( OutputPage &$out, Skin &$skin ) {
 		$groups = $out->getUser()->getGroups();
 		if ( in_array( 'sysop', $groups ) ) {
-			touch( __DIR__ . '/lasttouched.txt' );
+			touch( __DIR__ . '/../lasttouched.txt' );
 		}
 		return true;
 	}
