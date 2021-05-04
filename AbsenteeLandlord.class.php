@@ -17,7 +17,7 @@ class AbsenteeLandlord {
 
 	public static function onMediaWikiServices( MediaWikiServices $mws ) {
 		$mws->addServiceManipulator( 'ReadOnlyMode',
-			function ( ReadOnlyMode $svc, ServiceContainer $cont ) {
+			static function ( ReadOnlyMode $svc, ServiceContainer $cont ) {
 				return new AbsenteeLandlordReadOnlyMode( $svc );
 			} );
 	}
