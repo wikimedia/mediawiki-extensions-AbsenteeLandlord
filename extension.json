@@ -21,8 +21,8 @@
 		]
 	},
 	"AutoloadClasses": {
-		"AbsenteeLandlord": "src/AbsenteeLandlord.php",
-		"AbsenteeLandlordReadOnlyMode": "src/AbsenteeLandlordReadOnlyMode.php"
+		"AbsenteeLandlord": "AbsenteeLandlord.class.php",
+		"AbsenteeLandlordReadOnlyMode": "AbsenteeLandlordReadOnlyMode.php"
 	},
 	"Hooks": {
 		"BeforePageDisplay": "AbsenteeLandlord::maybeDoTouch",

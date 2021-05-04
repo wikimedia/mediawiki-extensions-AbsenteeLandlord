@@ -11,13 +11,8 @@ use MediaWiki\MediaWikiServices;
  * a service redefinition. As such, we proxy calls to the passed-in service instead.
  */
 class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
-
-	/** @var ReadOnlyMode */
 	private $baseService;
 
-	/**
-	 * @param ReadOnlyMode $baseService
-	 */
 	public function __construct( ReadOnlyMode $baseService ) {
 		// Despite the above note, we do still need to properly construct our parent instance just in
 		// case future changes add more methods to ReadOnlyMode which we are not set up to proxy over
@@ -27,9 +22,6 @@ class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
 		$this->baseService = $baseService;
 	}
 
-	/**
-	 * @return string
-	 */
 	public function getReason() {
 		$reason = $this->baseService->getReason();
 		if ( $reason === false ) {
@@ -37,7 +29,7 @@ class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
 			$maxDays = $config->get( 'AbsenteeLandlordMaxDays' );
 			// # days * 24 hours * 60 minutes * 60 seconds
 			$timeout = $maxDays * 24 * 60 * 60;
-			$lastTouched = filemtime( __DIR__ . '/../lasttouched.txt' );
+			$lastTouched = filemtime( __DIR__ . '/lasttouched.txt' );
 			$check = time() - $lastTouched;
 
 			if ( $check >= $timeout ) {
@@ -54,9 +46,6 @@ class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
 		return $reason;
 	}
 
-	/**
-	 * @param string $msg
-	 */
 	public function setReason( $msg ) {
 		$this->baseService->setReason( $msg );
 	}
