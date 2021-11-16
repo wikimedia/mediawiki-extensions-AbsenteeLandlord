@@ -4,9 +4,10 @@
 			"Ascánder",
 			"Chocolate con galleta",
 			"Fitoschido",
-			"Sanbec"
+			"Sanbec",
+			"Jakeukalane"
 		]
 	},
 	"absenteelandlord-reason": "La base de datos fue bloqueada automáticamente debido a la inactividad de los administradores.",
-	"absenteelandlord-desc": "Auto-bloquea la base de datos del wiki si todos los administradores se mantienen inactivos por un largo período de tiempo"
+	"absenteelandlord-desc": "Auto-bloquea la base de datos de la wiki si todos los administradores se mantienen inactivos por un largo período de tiempo"
 }
