@@ -21,7 +21,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"AbsenteeLandlord": "AbsenteeLandlord.class.php",
+		"AbsenteeLandlord": "AbsenteeLandlord.php",
 		"AbsenteeLandlordReadOnlyMode": "AbsenteeLandlordReadOnlyMode.php"
 	},
 	"Hooks": {
