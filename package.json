@@ -1,4 +1,5 @@
 {
+	"name": "AbsenteeLandlord",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
