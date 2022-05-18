@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sortilegus"
+			"Sortilegus",
+			"Serkanland"
 		]
 	},
-	"absenteelandlord-reason": "İdarəçilərin qeyri-fəallığı səbəbindən verilənlər bazası avtomatik olaraq kilidlənmişdir.",
-	"absenteelandlord-desc": "Müəyyən müddət ərzində idarəçilərin heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir"
+	"absenteelandlord-reason": "İnzibatçıların qeyri-fəallığı səbəbindən verilənlər bazası avtomatik olaraq kilidlənmişdir.",
+	"absenteelandlord-desc": "Müəyyən müddət ərzində inzibatçıların heç biri fəal olmadıqda viki layihənin verilənlər bazasını avtomatik kilidləyir"
 }
