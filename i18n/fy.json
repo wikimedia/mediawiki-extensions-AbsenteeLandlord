@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"PiefPafPier",
 			"Pyt"
 		]
 	},
-	"absenteelandlord-reason": "De database is automatysk ôfsletten fanwege ynaktiviteit fan de behearders.",
-	"absenteelandlord-desc": "Slút de database automatysk as de behearders allegearre in beskate tiid ynaktyf binne"
+	"absenteelandlord-reason": "De databank is automatysk skoattele fanwegen ynaktivens by de behearders.",
+	"absenteelandlord-desc": "Skoattelet de wiki-databank automatysk, at de behearders allegearre in skoftke ynaktyf binne"
 }
