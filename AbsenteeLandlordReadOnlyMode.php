@@ -57,7 +57,7 @@ class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
 	/**
 	 * @param string $msg
 	 */
-	public function setReason( $msg ) {
+	public function setReason( $msg ): void {
 		$this->baseService->setReason( $msg );
 	}
 }
