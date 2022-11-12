@@ -41,7 +41,9 @@ class AbsenteeLandlordReadOnlyMode extends ReadOnlyMode {
 			$check = time() - $lastTouched;
 
 			if ( $check >= $timeout ) {
-				$groups = RequestContext::getMain()->getUser()->getGroups();
+				$groups = MediaWikiServices::getInstance()
+					->getUserGroupManager()
+					->getUserGroups( RequestContext::getMain()->getUser() );
 
 				if ( !in_array( 'sysop', $groups ) ) {
 					$reason = wfMessage( 'absenteelandlord-reason' )->text();
