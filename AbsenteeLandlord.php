@@ -31,7 +31,9 @@ class AbsenteeLandlord {
 	 * @return true
 	 */
 	public static function maybeDoTouch( OutputPage &$out, Skin &$skin ) {
-		$groups = $out->getUser()->getGroups();
+		$groups = MediaWikiServices::getInstance()
+			->getUserGroupManager()
+			->getUserGroups( $out->getUser() );
 		if ( in_array( 'sysop', $groups ) ) {
 			touch( __DIR__ . '/lasttouched.txt' );
 		}
