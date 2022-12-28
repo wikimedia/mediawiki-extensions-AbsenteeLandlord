@@ -4,6 +4,6 @@
 			"Michaello"
 		]
 	},
-	"absenteelandlord-reason": "Baza podtaka je bila automatski zaključana zbog neaktivnosti administratora.",
-	"absenteelandlord-desc": "Automatski zaključava Viki bazu podataka ukoliko su svi administratori neaktivni neko vreme."
+	"absenteelandlord-reason": "Baza podataka je automatski zaključana zbog neaktivnosti administratora.",
+	"absenteelandlord-desc": "Automatski zaključava wiki bazu podataka ako su svi administratori neaktivni neko vreme"
 }
