@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Ramsis II"
+			"Ramsis II",
+			"Amire80"
 		]
 	},
-	"absenteelandlord-reason": "قاعدة البيانات اتقفلت  أوتوماتيكى علشان الاداريين مش  بيشتغلو",
+	"absenteelandlord-reason": "قاعدة البيانات اتقفلت أوتوماتيكى علشان الاداريين مش بيشتغلو",
 	"absenteelandlord-desc": "قاعدة بيانات الويكى بتتقفل اوتوماتيكى لو كل الاداريين ما اشتغلوش لفترة معينة"
 }
