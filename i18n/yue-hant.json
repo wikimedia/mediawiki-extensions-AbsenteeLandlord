@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"PB2008"
+		]
+	},
+	"absenteelandlord-desc": "如果管理員喺一段時間內冇活動，就會自動鎖定 wiki 資料庫"
+}
