@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"C.R."
+			"C.R.",
+			"Ruthven"
 		]
 	},
 	"absenteelandlord-reason": "'O database è stat'automatecamente bloccato a causa 'e ll'inattività 'e ll'ammenistrature.",
-	"absenteelandlord-desc": "Auto-blocco 'e ll'archivie wiki si 'e sysops songhe tutte inattive pe' cocche tiempo"
+	"absenteelandlord-desc": "Auto-blocco 'e ll'archivie wiki si ll'ammenestrature songhe tutte inattive pe nu poco 'e tiempo"
 }
