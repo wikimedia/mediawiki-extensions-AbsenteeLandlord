@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
-	"absenteelandlord-reason": "د پازوالانو د غيرفعاليت له کبله ډاټابېز په اتوماتيک ډول تړل شوی دی.",
-	"absenteelandlord-desc": "که چېرته ټول پازوالان د يو څه وخت له پاره غير فعاله وي نو په اتوماتيک ډول ډاټابېز تړل کېږي"
+	"absenteelandlord-reason": "د پازوالانو د نه فعاليت له کبله اومتوک‌اډانه په خپلکاري ډول تړل شوې ده.",
+	"absenteelandlord-desc": "که چېرته ټول پازوالان د يو څه وخت لپاره غير فعاله وي؛ نو په خپلکاري ډول اومتوک‌اډانه تړل کېږي"
 }
